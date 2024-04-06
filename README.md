@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramandeep
-- 👀 I’m interested in Information Technology Sector
+- 👀 I’m interested in Information Technology,Sector
 - 🌱 I’m currently learning AI and Data Science 
 - 📫 Reach me - ramandeep125005@outlook.com
 
