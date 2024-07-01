@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ramandeep
-- 👀 I’m interested in Information Technology,Sector
-- 🌱 I’m currently learning AI and Data Science 
+- 👀 I’m Passinate about the dynamic and ever evolving of IT
+- 🌱 I’m currently learning Data Science with AI
 - 📫 Reach me - ramandeep125005@outlook.com
 
 <!---
